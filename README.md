@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shubhamsaluja21
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL,Python and Vizualization tools.
+- 👀 Welcome to my Github
 
 <!---
 shubhamsaluja21/shubhamsaluja21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
